@@ -1,5 +1,5 @@
 ### *The Half-Ring*
-### *Co-written by Zee and Claude, expanded by Grok*
+*Co-written by Zee and Claude, expanded by Grok*
 
 ---
 
