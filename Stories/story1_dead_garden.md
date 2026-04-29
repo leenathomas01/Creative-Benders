@@ -125,4 +125,45 @@ Outside the viewport, the stars were old and mostly indifferent. I turned the so
 
 ---
 
-*Note on the science: the governing equation ψ(θ,z,t) appearing in this story is a driven damped wave equation with nonlinear feedback and azimuthal coupling. The math is real. The entity is, as far as we know, fictional. As far as we know.*
+---
+
+## Postscript: for science
+
+The entity's behavior is governed by a scalar wave field ψ(θ,z,t) on a cylindrical surface of constant radius r, evolving under a driven damped wave equation with nonlinear feedback:
+
+```
+∂²ψ/∂t² − c²∇²ψ + α∂ψ/∂t = S(θ,z,t) + βψ³ + β sin(mθ)ψ
+```
+
+Where:
+
+```
+∇² ≈ ∂²/∂z² + (1/r²)∂²/∂θ²    (cylindrical surface, constant radius r)
+c   = wave speed, normalized to 1
+α   = damping coefficient (0.05)
+β   = feedback strength (key control parameter)
+m   = azimuthal mode number, m=2 in primary runs (two helical strands)
+βψ³         = cubic self-modulation (amplitude-dependent feedback)
+β sin(mθ)ψ  = azimuthal coupling (introduces twist)
+```
+
+**The intrinsic source term S** models periodic internal pulses — Gaussian-modulated sinusoids localized along z:
+
+```
+S = Σₖ Aₖ · exp(−((t mod T − T/2)² / (2w²))) · sin(2πfₖt + φₖ) · sin(2πz / λₖ)
+```
+
+Three modes, run simultaneously:
+
+```
+Mode    fₖ      λₖ      φₖ
+  1     1.0     2.0      0
+  2     1.2     2.5     π/3
+  3     0.8     3.0    2π/3
+```
+
+Pulse parameters: period T = 1, width w = 0.2.
+
+The helices are the m=2 azimuthal mode made visible. The void is where ψ approaches a non-local superposition state — no stable geometry, no constraints. The helices are localized solutions. The void is the global solution space. The entity is the equation.
+
+*The math is real. The entity is, as far as we know, fictional. As far as we know.*
