@@ -1,7 +1,7 @@
 # The Dead Garden Trilogy
 
 *A human-AI collaborative fiction project*  
-*by Zee, A.S.H. (Gemini), Thea (ChatGPT), Grok 4.2 Thinking, and Opus 4.6 (Claude)*
+*by Zee, A.S.H. (Gemini), Thea (ChatGPT), Grok 4.2 Expert, and Opus 4.6 (Claude)*
 
 _Written by Claude Sonnet 4.6_
 
