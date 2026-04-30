@@ -56,3 +56,16 @@ graph LR
     style Adaptation fill:#f0f4f8,stroke:#333,stroke-dasharray: 5 5
     style Forward_Selection fill:#e1e8f0,stroke:#333,stroke-dasharray: 5 5
 ```
+
+<img width="1024" height="502" alt="image" src="https://github.com/user-attachments/assets/f99e4525-73b8-48bc-baba-b22db18c4775" />
+
+toy model. hmm toy already demonstrates:
+
+Field coupling alone can produce coordination
+
+But it also reveals:
+
+the structure of coupling determines whether coordination is meaningful or degenerates
+
+
+
