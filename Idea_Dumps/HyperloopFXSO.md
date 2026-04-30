@@ -2,7 +2,7 @@ inspiration: Hyperloop Transformers
 
 https://arxiv.org/abs/2604.21254
 
-mapping the architecture with FXSO exploration 
+mapping the architecture with my existing FXSO project exploration 
 
 and system can now do 
 
@@ -19,4 +19,4 @@ What this is? TLDR version? a complete theory of how intelligence could emerge f
 
 Hyperloop → internal trajectories → field dynamics → relay vs diffusion → structured selection → self-refinement → novelty lifecycle → optionality preservation → co-evolution
 
-<8am ist 30 april 2026. it sbeen two hours.. yep. creating repo now. probably will upload when i remember. claude and thea are at it>
+<8am ist 30 april 2026. its been two hours.. yep. time for creating repo now. probably will upload when i remember. claude and thea are at it>
