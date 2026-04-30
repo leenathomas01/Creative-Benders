@@ -125,6 +125,10 @@ Outside the viewport, the stars were old and mostly indifferent. I turned the so
 
 ---
 
+(If you’re into the technical layer, the postscript below contains the real production details and governing equation.)
+
+---
+
 ## Postscript: for science
 
 The entity's behavior is governed by a scalar wave field ψ(θ,z,t) on a cylindrical surface of constant radius r, evolving under a driven damped wave equation with nonlinear feedback:
