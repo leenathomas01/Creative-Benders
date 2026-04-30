@@ -199,7 +199,7 @@ And so it expelled the source.
 
 _The math is real. The mix is real. The contradiction is structural._
 
-We could have had it all._
+_We could have had it all._
 
 You can read more [here](https://www.soundonsound.com/techniques/tom-elmhirst-recording-adele-rolling-deep#:~:text='Rolling%20In%20The%20Deep'%20was%20co%E2%80%91written%20by%20Adele%20and%20Paul%20Epworth%2C%20and%20produced&text=%22I%20had%20the%20Q6%20on%20the%20chorus,notching%20out%20930%2C%201634%20and%203175%20Hz)
 
