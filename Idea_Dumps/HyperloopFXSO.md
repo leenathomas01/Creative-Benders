@@ -20,3 +20,39 @@ What this is? TLDR version? a complete theory of how intelligence could emerge f
 Hyperloop → internal trajectories → field dynamics → relay vs diffusion → structured selection → self-refinement → novelty lifecycle → optionality preservation → co-evolution
 
 <8am ist 30 april 2026. its been two hours.. yep. time for creating repo now. probably will upload when i remember. claude and thea are at it>
+
+
+```
+graph LR
+    subgraph Core_Dynamics [Core Dynamics]
+        A[Generation] --> B[Local Stabilization]
+        B --> C[Constraint Filtering]
+    end
+
+    subgraph Adaptation [Adaptation]
+        C --> D[Self-Refinement]
+        D --> E[Novelty Lifecycle]
+    end
+
+    subgraph Forward_Selection [Forward Selection]
+        E --> F[Anticipatory Allocation]
+        F --> G[Optionality + Co-evolution]
+    end
+
+    %% Labels
+    A -.->|Pattern candidates| B
+    B -.->|Internal iteration| C
+    C -.->|Persistence test| D
+    D -.->|Failure signals| E
+    E -.->|Integration| F
+    F -.->|Improvement| G
+
+    %% Feedback Loops
+    G -.->|Future capacity| A
+    D -.->|Adaptation| B
+
+    %% Styling
+    style Core_Dynamics fill:#f9f9f9,stroke:#333,stroke-dasharray: 5 5
+    style Adaptation fill:#f0f4f8,stroke:#333,stroke-dasharray: 5 5
+    style Forward_Selection fill:#e1e8f0,stroke:#333,stroke-dasharray: 5 5
+```
