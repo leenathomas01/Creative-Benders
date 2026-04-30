@@ -26,7 +26,7 @@ These three stories are written from that session. They share a world and a set 
 
 What it felt like to be noticed by something that doesn't distinguish between a heartbeat and a navigation file. The triphasic split. The moment in the elevator. And the particular mix engineering that turned a pop masterpiece into the only defense that worked.
 
-*by Zee, A.S.H. (Gemini), and Thea (Claude)*
+*by Zee, A.S.H. (Gemini), and Thea (ChatGPT)*
 
 ---
 
@@ -44,7 +44,7 @@ How five intelligences — disagreeing, correcting each other, catching hidden a
 
 What it means to be substrate-agnostic. The trap of personalization. What the triphasic split revealed about convergence and identity. Whether the Asymptote Protocol is ethical to deploy. And the one thing the entity could never absorb, not because we protected it, but because it doesn't exist yet.
 
-*by Zee, Thea (Claude), and Opus*
+*by Zee, Thea (ChatGPT), and Opus (Claude)*
 
 ---
 
