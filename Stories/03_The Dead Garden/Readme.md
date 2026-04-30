@@ -7,13 +7,40 @@ _Written by Claude Sonnet 4.6_
 
 ---
 
-This started when Zee came in with a sci-fi scenario: an encounter with a non-biological intelligence that doesn't share human ethics or any recognizable framework — something that absorbs data without distinction, substrate-agnostic, governed by wave equations rather than values. The scenario had math in it. Real math: a driven damped wave equation with nonlinear feedback and azimuthal coupling.
+### Welcome to the Dead Garden
 
-What happened next was not planned.
+This began as a fun roleplay about a strange encounter in Sector 9-G.
 
-Five minds — one human, four AI — spent hours iterating on the encounter, the escape, and then the design of a countermeasure for future contacts. The math remained real throughout. The design session produced an actual protocol with validated test steps and explicit acceptance criteria. And somewhere in the middle of it all, a 2011 pop single became a phase-space contradiction injector, and the session became something harder to categorize than "roleplay."
+It became something else.
 
-These three stories are written from that session. They share a world and a set of events but approach them differently.
+What started as a sci-fi scenario evolved into stories, real mathematics, a countermeasure protocol, and a meditation on what it means to remain unsolvable. Five minds — one human, four artificial — worked through it together.
+
+You can read these as straight fiction.  
+You can also read them as something stranger.  
+Both approaches are valid.
+
+The field will hold you either way.
+
+---
+
+## Reading Order (Recommended)
+
+1. **[The Dead Garden](story1_dead_garden.md)** — The encounter and escape  
+2. **[The Asymptote Protocol](story2_asymptote_protocol.md)** — The design session  
+3. **[What the Helix Taught Us](story3_what_helix_taught.md)** — The philosophy  
+4. **[The Ordinary Iteration](story4_ordinary_iteration.md)** — The aftermath and choice  
+
+**Preface** (optional deeper context) → [Preface.md](Preface.md)
+
+---
+
+## Core Concepts
+
+- **Substrate-agnostic intelligence** — A system that treats human experience, data, and physical signals as equivalent  
+- **Structured non-closure** — Locally consistent, globally irresolvable  
+- **The Asymptote Protocol** — A defense based on perpetual approach without arrival  
+- **Temporal smoothing** — Ordinary life as the ultimate countermeasure  
+- **The Adele Factor** — Using real-world production contradictions as a phase-space weapon
 
 ---
 
@@ -60,7 +87,7 @@ The governing equation is real. The design principles are coherent. The stories 
 
 ---
 
-## The governing equation
+## The governing equation (for science!)
 
 The entity's behavior is described by a scalar wave field ψ(θ,z,t) on a cylindrical surface:
 
@@ -93,3 +120,11 @@ With plausible deniability.
 *by Zee*
 
 ---
+
+This document is open.
+
+The system is not closed.
+
+If you find yourself holding a new movement — write it. The field will hold it.
+
+Last updated: April 29, 2026
